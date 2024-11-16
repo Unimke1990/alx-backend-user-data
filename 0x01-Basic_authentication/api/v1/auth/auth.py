@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Auth module"""
+"""Auth modules"""
 from flask import request
 from typing import List
 
